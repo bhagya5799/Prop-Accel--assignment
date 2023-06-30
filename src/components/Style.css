@@ -1,0 +1,69 @@
+.signup-btn {
+  background-image: linear-gradient(to right, #4882e0 50%, #7f2eca);
+  width: 12rem;
+  height: 3.5rem;
+  border-radius: 0.8rem;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+.ok {
+  background-image: url("https://res.cloudinary.com/bhagya/image/upload/v1688024986/Frame_3_1_jzdipp.png");
+  height: 100%;
+}
+.image-card {
+  position: relative;
+  background-image: url("https://res.cloudinary.com/bhagya/image/upload/v1688024808/everyone-is-smiling-listens-group-people-business-conference-modern-classroom-daytime_1_1_soqa4d.png");
+  height: 500px;
+  width: 500px;
+  background-repeat: no-repeat;
+  margin-right: 2rem;
+}
+.business-image {
+  position: absolute;
+  top: 20%;
+  left: -10%;
+  height: 300px;
+  background-size: contain;
+}
+span {
+  padding: 0.3rem 0.3rem;
+  background-color: rgb(101, 12, 109);
+  border-radius: 50%;
+}
+.dot-continer {
+  display: flex;
+  gap: 2.9rem;
+  position: absolute;
+  bottom: 12%;
+  left: -10%;
+}
+.dot-continer-right {
+  display: grid;
+  position: absolute;
+  top: 25%;
+  right: 30px;
+  gap: 3rem;
+}
+.podcost-img {
+  position: absolute;
+  right: -2%;
+  bottom: 22%;
+  height: 20%;
+}
+
+.get-started-button {
+  background-image: linear-gradient(to right, #4882e0 50%, #7f2eca);
+  width: 14rem;
+  height: 3.8rem;
+  border-radius: 0.8rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  color: white;
+ 
+}
+.mike-image{
+    position: absolute;
+    right: 0;
+    bottom: 0px;
+    height: 6rem;
+}
